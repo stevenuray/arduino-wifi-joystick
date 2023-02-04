@@ -1,4 +1,3 @@
-#include "arduino_secrets.h"
 #include <ArduinoJson.h>
 #include <ArduinoJson.hpp>
 #include <WiFiNINA.h>
